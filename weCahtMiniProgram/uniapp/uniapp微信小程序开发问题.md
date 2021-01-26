@@ -8,11 +8,9 @@
 
 ![image-20201207150613327](C:\Users\xiezhijie\AppData\Roaming\Typora\typora-user-images\image-20201207150613327.png)
 
-![image-20201207150725385](C:\Users\xiezhijie\AppData\Roaming\Typora\typora-user-images\image-20201207150725385.png)
+![image-20210120162527417](C:\Users\xiezhijie\AppData\Roaming\Typora\typora-user-images\image-20210120162527417.png)
 
-![image-20201207150744054](C:\Users\xiezhijie\AppData\Roaming\Typora\typora-user-images\image-20201207150744054.png)
-
-![image-20201207151016589](C:\Users\xiezhijie\AppData\Roaming\Typora\typora-user-images\image-20201207151016589.png)
+![image-20210120162541922](C:\Users\xiezhijie\AppData\Roaming\Typora\typora-user-images\image-20210120162541922.png)
 
 ## 头部下拉颜色渐变
 
