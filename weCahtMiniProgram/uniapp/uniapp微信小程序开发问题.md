@@ -45,3 +45,28 @@
 			},
 encodeURIComponent(JSON.stringify(item))
 
+
+
+## 关于获取小程序码wxacode.getUnlimited
+
+https://developers.weixin.qq.com/miniprogram/dev/api-backend/open-api/qr-code/wxacode.getUnlimited.html
+
+
+
+```js
+	//获取到
+
+if (option.scene) {
+			let btem = decodeURIComponent(option.scene);
+			let newarr = btem.split('&');
+			let allEarr = [];
+			newarr.forEach(item => {
+				let c = item.split('=');
+				allEarr.push(c);
+			});
+			this.projectId = allEarr[0][1];
+			this.$store.state.pi_id = allEarr[0][1];
+			this.refreshpage(allEarr[0][1]);
+		}
+```
+
